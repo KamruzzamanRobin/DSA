@@ -1,0 +1,11 @@
+1 : two pointer approach
+2 : maximum subarray, maximu subarray sum, kadane's algorithm
+3 : pair sum, moore's algorithm
+4 : reverse a linklist, find middle of linkedlist(slow-fast pointer), cycle of linkedlist, detect cycle linkedlist, remove cycle of linkedlist, marge two sorted list, doubly linkedlist, circular linkedlist, flatten doubly linkedlist
+5 : 2D array,maximum row sum, diagonal sum, 2D vector, search in a 2D matrix, search in a 2D matrix(240);
+6 : STL(vector,list, deque, pair,)
+7 : Stack, implement using linkedlist,valid parentheses,
+8 : Queue, deque, circular queue,
+9 : Quick Sort
+10: BT-traversal, traversal uing level order traversal(Iterative approach)
+11: Warshall's,
